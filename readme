@@ -1,0 +1,87 @@
+Segue o conteúdo do **README.md** para o projeto:
+
+```markdown
+# Teste Técnico - Soluções em Java
+
+Este projeto contém a resolução de um teste técnico utilizando **Java 17**. O objetivo foi implementar soluções para 5 questões propostas, todas centralizadas em uma única classe `Main`, de forma interativa e organizada.
+
+---
+
+## 🚀 Tecnologias Utilizadas
+
+- **Java 17**: Escolhemos esta versão por sua estabilidade e pelas melhorias adicionadas, como o suporte ao `switch` aprimorado e melhorias de desempenho.
+- **Ambiente CLI (Prompt de Comando)**: O programa é executado diretamente no terminal, permitindo uma experiência de usuário simples e funcional.
+
+---
+
+## 📋 Estrutura do Programa
+
+O programa contém:
+
+- **Uma única classe `Main`**: Todas as soluções foram centralizadas nesta classe para simplificar a execução e evitar a complexidade de navegação entre vários arquivos em um ambiente de teste cronometrado.
+- **Métodos estáticos**: Cada exercício foi implementado como um método independente, chamado diretamente pelo menu interativo.
+- **Menu interativo**: Permite ao usuário selecionar o exercício desejado e permanecer no programa até decidir sair.
+
+---
+
+## ℹ️ Por que usar uma única classe `Main`?
+
+Optar por uma única classe simplifica a execução e a organização do código em ambientes onde o tempo é limitado, como testes técnicos. Esta abordagem possui as seguintes vantagens:
+
+1. **Foco na execução**: O examinador não precisa navegar por várias classes, facilitando a verificação do funcionamento.
+2. **Redução de complexidade**: Evita configurações de projeto ou múltiplos arquivos, ideal para ambientes onde a simplicidade é essencial.
+3. **Organização clara**: Mesmo com apenas uma classe, o uso de métodos específicos para cada exercício mantém o código legível e modular.
+
+---
+
+## 📝 Como Executar o Programa
+
+### Pré-requisitos
+
+- **Java 17 ou superior** instalado.
+- Um terminal ou prompt de comando configurado com acesso ao compilador `javac` e ao executável `java`.
+
+### Passo a Passo
+
+1. Clone este repositório ou copie o código para um arquivo local chamado `Main.java`.
+
+2. Compile o programa no terminal:
+   ```bash
+   javac Main.java
+   ```
+
+3. Execute o programa:
+   ```bash
+   java Main
+   ```
+
+4. Siga as instruções no menu interativo. O programa permanecerá ativo até que você escolha a opção **0** (sair).
+
+---
+
+## 📚 Exercícios Resolvidos
+
+### **Exercício 1**: Soma de números
+Calcula o valor da soma de números de 1 a 13 conforme descrito no enunciado.
+
+### **Exercício 2**: Verificar número na sequência de Fibonacci
+Permite ao usuário informar um número e verifica se ele pertence à sequência de Fibonacci.
+
+### **Exercício 3**: Análise de faturamento diário
+Realiza cálculos baseados em um vetor de faturamento diário:
+- Menor valor de faturamento.
+- Maior valor de faturamento.
+- Dias com faturamento superior à média.
+
+### **Exercício 4**: Percentual de faturamento por estado
+Calcula a representação percentual do faturamento de cada estado em relação ao total.
+
+### **Exercício 5**: Inverter uma string
+Recebe uma string do usuário e retorna sua inversão sem usar funções prontas.
+
+---
+
+## 📞 Suporte
+
+Se você tiver dúvidas ou encontrar problemas durante a execução, entre em contato comigo. Estou disponível para ajudar! 😊
+```
