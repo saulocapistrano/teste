@@ -1,95 +1,95 @@
+Aqui está a versão totalmente limpa, sem marcações desnecessárias, mantendo apenas texto simples:
+
+---
+
 # Teste Técnico - Soluções em Java
 
-Este repositório contém a resolução de um teste técnico utilizando **Java 17**. As soluções foram implementadas com foco em simplicidade, organização e interatividade, permitindo que o usuário execute os exercícios diretamente pelo terminal.
+Este repositório contém a resolução de um teste técnico utilizando Java 17. As soluções foram implementadas com foco em simplicidade, organização e interatividade, permitindo que o usuário execute os exercícios diretamente pelo terminal.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
-- **Java 17**: Escolhido por sua estabilidade e recursos modernos.
-- **Ambiente CLI**: O programa foi projetado para execução no terminal, proporcionando uma interface simples e direta.
+- Java 17: Escolhido por sua estabilidade e recursos modernos.
+- Ambiente CLI: O programa foi projetado para execução no terminal, proporcionando uma interface simples e direta.
 
 ---
 
-## 📋 Estrutura do Programa
+## Estrutura do Programa
 
-- **Classe Principal (`Main`)**:
-  - Todas as soluções estão centralizadas na classe `Main`.
+- Classe Principal: Main
+  - Todas as soluções estão centralizadas na classe Main.
   - Os exercícios estão organizados como métodos independentes.
-- **Menu Interativo**:
+- Menu Interativo:
   - O usuário seleciona os exercícios pelo terminal.
   - O menu permanece ativo até o usuário optar por sair.
 
 ---
 
-## 💡 Por que usar uma única classe `Main`?
+## Por que usar uma única classe Main?
 
 Durante um teste técnico, simplicidade e agilidade são cruciais. Optar por uma única classe oferece vantagens como:
 
-1. **Foco na execução**: Apenas um arquivo precisa ser manipulado.
-2. **Organização modular**: Cada exercício está isolado em um método.
-3. **Facilidade de avaliação**: O examinador pode entender todo o código rapidamente.
+1. Foco na execução: Apenas um arquivo precisa ser manipulado.
+2. Organização modular: Cada exercício está isolado em um método.
+3. Facilidade de avaliação: O examinador pode entender todo o código rapidamente.
 
 ---
 
-## 📝 Exercícios Resolvidos
+## Exercícios Resolvidos
 
-1. **Exercício 1**: Soma de números (de 1 a 13).
-2. **Exercício 2**: Verificar se um número pertence à sequência de Fibonacci.
-3. **Exercício 3**: Análise de faturamento diário.
-4. **Exercício 4**: Percentual de faturamento por estado.
-5. **Exercício 5**: Inversão de uma string sem funções prontas.
+1. Exercício 1: Soma de números (de 1 a 13).
+2. Exercício 2: Verificar se um número pertence à sequência de Fibonacci.
+3. Exercício 3: Análise de faturamento diário.
+4. Exercício 4: Percentual de faturamento por estado.
+5. Exercício 5: Inversão de uma string sem funções prontas.
 
 ---
 
-## 🚀 Como Executar
+## Como Executar
 
 ### Pré-requisitos
 
-- **Java 17** ou superior instalado.
-- Acesso ao terminal com `javac` e `java`.
+- Java 17 ou superior instalado.
+- Acesso ao terminal com javac e java.
 
 ### Passos
 
-1. Clone este repositório ou copie o arquivo `Main.java` para seu computador:
-   ```bash
+1. Clone este repositório ou copie o arquivo Main.java para seu computador:
+
    git clone https://github.com/saulocapistrano/teste.git
    cd teste
-   ```
 
 2. Compile o programa:
-   ```bash
+
    javac Main.java
-   ```
 
 3. Execute o programa:
-   ```bash
+
    java Main
-   ```
 
 4. No terminal, siga o menu interativo:
    - Escolha o número do exercício.
-   - Digite `0` para sair.
+   - Digite 0 para sair.
 
 ---
 
-## 📂 Estrutura do Código
+## Estrutura do Código
 
-- **Classe Principal**: `Main.java`
-- **Métodos por Exercício**:
-  - `executarExercicio1()`
-  - `executarExercicio2()`
-  - `executarExercicio3()`
-  - `executarExercicio4()`
-  - `executarExercicio5()`
+- Classe Principal: Main.java
+- Métodos por Exercício:
+  - executarExercicio1
+  - executarExercicio2
+  - executarExercicio3
+  - executarExercicio4
+  - executarExercicio5
 
 ---
 
-## 🖼️ Exemplo de Uso
+## Exemplo de Uso
 
 Após executar o programa, o seguinte menu será exibido no terminal:
 
-```plaintext
 Escolha o exercício a executar (1 a 5) ou 0 para sair:
 1 - Soma de números
 2 - Verificar número na sequência de Fibonacci
@@ -98,12 +98,11 @@ Escolha o exercício a executar (1 a 5) ou 0 para sair:
 5 - Inverter uma string
 0 - Sair
 Opção:
-```
 
 Digite o número correspondente ao exercício e siga as instruções.
 
 ---
 
-## 📞 Suporte
+## Suporte
 
-Caso encontre problemas ou tenha dúvidas, entre em contato. Estou disponível para ajudar! 😄
+Caso encontre problemas ou tenha dúvidas, entre em contato. Estou disponível para ajudar!
