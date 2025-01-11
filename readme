@@ -1,19 +1,14 @@
-Aqui está a versão totalmente limpa, sem marcações desnecessárias, mantendo apenas texto simples:
-
----
 
 # Teste Técnico - Soluções em Java
 
 Este repositório contém a resolução de um teste técnico utilizando Java 17. As soluções foram implementadas com foco em simplicidade, organização e interatividade, permitindo que o usuário execute os exercícios diretamente pelo terminal.
 
----
 
 ## Tecnologias Utilizadas
 
 - Java 17: Escolhido por sua estabilidade e recursos modernos.
 - Ambiente CLI: O programa foi projetado para execução no terminal, proporcionando uma interface simples e direta.
 
----
 
 ## Estrutura do Programa
 
@@ -24,8 +19,6 @@ Este repositório contém a resolução de um teste técnico utilizando Java 17.
   - O usuário seleciona os exercícios pelo terminal.
   - O menu permanece ativo até o usuário optar por sair.
 
----
-
 ## Por que usar uma única classe Main?
 
 Durante um teste técnico, simplicidade e agilidade são cruciais. Optar por uma única classe oferece vantagens como:
@@ -34,7 +27,6 @@ Durante um teste técnico, simplicidade e agilidade são cruciais. Optar por uma
 2. Organização modular: Cada exercício está isolado em um método.
 3. Facilidade de avaliação: O examinador pode entender todo o código rapidamente.
 
----
 
 ## Exercícios Resolvidos
 
@@ -44,7 +36,7 @@ Durante um teste técnico, simplicidade e agilidade são cruciais. Optar por uma
 4. Exercício 4: Percentual de faturamento por estado.
 5. Exercício 5: Inversão de uma string sem funções prontas.
 
----
+
 
 ## Como Executar
 
@@ -72,7 +64,6 @@ Durante um teste técnico, simplicidade e agilidade são cruciais. Optar por uma
    - Escolha o número do exercício.
    - Digite 0 para sair.
 
----
 
 ## Estrutura do Código
 
@@ -83,8 +74,6 @@ Durante um teste técnico, simplicidade e agilidade são cruciais. Optar por uma
   - executarExercicio3
   - executarExercicio4
   - executarExercicio5
-
----
 
 ## Exemplo de Uso
 
@@ -100,8 +89,6 @@ Escolha o exercício a executar (1 a 5) ou 0 para sair:
 Opção:
 
 Digite o número correspondente ao exercício e siga as instruções.
-
----
 
 ## Suporte
 
